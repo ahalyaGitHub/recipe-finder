@@ -17,18 +17,18 @@ Recipe Finder is a web application designed to help users find delicious recipes
 
 ## Installation
 
-  1. Clone this repository:
-    $ git clone https://github.com/ahalyaGitHub/recipe-finder.git
-    $ cd recipe-finder
-  
-  2. Install dependencies:
-    $ npm install
-  
-  4. Set up environment variables:
-  -Create a .env file in the project root.
-  -Add necessary environment variables like:
-    DB_CONNECTION=<your-database-connection-string>
-    API_KEY=<your-recipe-api-key>
+    1. Clone this repository:
+      $ git clone https://github.com/ahalyaGitHub/recipe-finder.git
+      $ cd recipe-finder
     
-  4. Start the development server:
-    $ npm start
+    2. Install dependencies:
+      $ npm install
+    
+    4. Set up environment variables:
+    -Create a .env file in the project root.
+    -Add necessary environment variables like:
+      DB_CONNECTION=<your-database-connection-string>
+      API_KEY=<your-recipe-api-key>
+      
+    4. Start the development server:
+      $ npm start
