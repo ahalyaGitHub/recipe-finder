@@ -7,7 +7,6 @@ Recipe Finder is a web application designed to help users find delicious recipes
 - Ingredient-Based Search: Input available ingredients to receive a list of matching recipes.
 - Detailed Recipe Information: View recipe details such as ingredients, steps, and nutritional information.
 - User-Friendly Interface: Intuitive and easy-to-navigate layout for a seamless experience.
-- Favorite Recipes: Save your favorite recipes to access them anytime.
 
 ## Tech Stack
 
